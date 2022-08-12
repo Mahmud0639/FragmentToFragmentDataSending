@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentToFragmentDataSending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_gender">Enter your Gender</string>
+    <string name="enter_your_age">Enter your Age</string>
+    <string name="text_will_be_here">Text will be here</string>
+    <string name="gender_will_be_here">Gender will be here</string>
+    <string name="age_data_will_be_here">Age data will be here</string>
+</resources>
